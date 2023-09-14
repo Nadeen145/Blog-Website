@@ -14,4 +14,4 @@ Cloning the project:
      a. npm init -y <br/>
      b. npm i express ejs body-parser mongoose <br/>
      c. node app.js <br/>
-  5. Go to website: http://localhost:3000/.
+  5. Go to website: http://localhost:3000/ to see the blogs & to add a blog go to http://localhost:3000/compose.
